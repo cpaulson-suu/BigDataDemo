@@ -1,2 +1,3 @@
 # BigDataDemo
-A demo repo for Big Data
+
+New, better description: AN AWESOME repo for demonstrating Github!
